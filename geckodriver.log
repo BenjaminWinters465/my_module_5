@@ -1,0 +1,289 @@
+1604596580249	geckodriver	INFO	Listening on 127.0.0.1:65182
+1604596581246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nm0257ms\\AppData\\Local\\Temp\\rust_mozprofilekaqs5W"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604596588308	Marionette	INFO	Listening on port 65188
+1604596588502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2869.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2869.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2869.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2869.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2869.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2869.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2869.js, line 1: unreachable code after return statement
+1604596744033	geckodriver	INFO	Listening on 127.0.0.1:65264
+1604596745056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "C:\\Users\\nm0257ms\\AppData\\Local\\Temp\\rust_mozprofileE1U76c"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604596750403	Marionette	INFO	Listening on port 65270
+1604596750573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604596755439	Marionette	INFO	Stopped listening on port 65270
+JavaScript warning: https://media.nintendo.com/share/nclood/stable/en-us/bundles/all.min.js, line 8: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://media.nintendo.com/share/nclood/stable/en-us/bundles/all.min.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://media.nintendo.com/share/nclood/stable/en-us/bundles/all.min.js, line 8: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://media.nintendo.com/share/nclood/stable/en-us/bundles/all.min.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nm0257ms\AppData\Local\Temp\rust_mozprofileE1U76c\protections.sqlite
+1604596761516	Marionette	INFO	Stopped listening on port 65188
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604596804354	geckodriver	INFO	Listening on 127.0.0.1:65388
+1604596805385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nm0257ms\\AppData\\Local\\Temp\\rust_mozprofileMYW3t9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604596811978	Marionette	INFO	Listening on port 65394
+1604596812069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+1604606009221	Marionette	INFO	Stopped listening on port 65394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604950521724	geckodriver	INFO	Listening on 127.0.0.1:49176
+1604950522729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nm0257ms\\AppData\\Local\\Temp\\rust_mozprofileXJfWvA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604950525879	Marionette	INFO	Listening on port 49182
+1604950526063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+1604957265210	geckodriver	INFO	Listening on 127.0.0.1:50355
+1604957266226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nm0257ms\\AppData\\Local\\Temp\\rust_mozprofileVuS09D"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604957269356	Marionette	INFO	Listening on port 50361
+1604957269471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+1604957298405	Marionette	INFO	Stopped listening on port 49182
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604958679356	geckodriver	INFO	Listening on 127.0.0.1:50601
+1604958680368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nm0257ms\\AppData\\Local\\Temp\\rust_mozprofileWeUown"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604958683581	Marionette	INFO	Listening on port 50607
+1604958683645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604958683961	Marionette	INFO	Stopped listening on port 50361
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+1604960434205	geckodriver	INFO	Listening on 127.0.0.1:50870
+1604960435227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nm0257ms\\AppData\\Local\\Temp\\rust_mozprofileXKVfHj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604960440126	Marionette	INFO	Listening on port 50876
+1604960440208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+1604960464951	Marionette	INFO	Stopped listening on port 50607
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
