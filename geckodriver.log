@@ -287,3 +287,10 @@ JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/use
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
 JavaScript error: https://m.media-amazon.com/images/G/01/imdb/js/collections/user-reviews-2154194008._CB407253794_.js, line 1: TypeError: this.widget is null
+1604964305200	Marionette	INFO	Stopped listening on port 50876
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
